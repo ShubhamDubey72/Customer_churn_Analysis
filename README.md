@@ -91,8 +91,8 @@ Custome_churn/
 
 ```bash
 # If using git
-git clone <repo-url>
-cd Custome_churn
+git clone https://github.com/ShubhamDubey72/Customer_churn_Analysis.git
+cd Customer_churn_Analysis
 ```
 
 ### 2. Create a virtual environment (recommended)
@@ -114,7 +114,7 @@ pip install -r requirements.txt
 ### 4. Launch Jupyter Notebook
 
 ```bash
-jupyter notebook AnshumanDubey_CustomerChurnAnalysis.ipynb
+jupyter notebook ShubhamKumarDubey_CustomerChurnAnalysis.ipynb
 ```
 
 ### 5. Run all cells
